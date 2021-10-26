@@ -1,2 +1,2 @@
-# ejerciciotriangulo2formas
+# ejerciciotriangulo
 Created with CodeSandbox
